@@ -4,7 +4,7 @@
 1. There is 1 dealer
 2. There are 5 players
 3. There is 1 standard 52 card deck (no jokers)
-4. 2 cards are dealt per player in a robin round manner
+4. Two cards are dealt per player in a robin round manner
 5. Between hands, all cards return to the deck and shuffled
 4. It is players vs dealer game
 5. The highest hand wins
@@ -19,13 +19,13 @@
 6. Two cards are dealt for each player. (First Deal and Second Deal)
 7. Then, a dealer draws 2 cards.
 8. Dealer's highest card is compared to each player's highest card and winners are calculated.
-9. The winners are announced for each hand as below:
-    Dealer vs Player 1: Dealer
-    Dealer vs Player 2: Player 1
-    Dealer vs Player 3: Player 2
-    .......
-    .......
-    .......
+9. The winners are announced for each hand as below: <br />
+    Dealer vs Player 1: *Dealer* <br />
+    Dealer vs Player 2: *Player 1* <br />
+    Dealer vs Player 3: *Player 2* <br />
+    ....... <br />
+    ....... <br />
+    ....... <br />
 10. After each hand, you will be prompted to start another hand or end the game.
 11. If you press 'Enter', game is over.
 12. If you press 'y' and hit 'Enter', a next hand begins.
