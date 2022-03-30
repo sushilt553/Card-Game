@@ -11,7 +11,7 @@
 6. The winners are announced at the end of each hand
 
 ***How to play***
-1. Open your terminal and change directory to the card game directory.
+1. Clone this repository to your local machine. Then, open your terminal and change directory to the card game directory.
 2. Run `ruby game.rb` on your terminal.
 3. The Game begins...
 4. There are 5 players and you are prompted to enter each player's name
